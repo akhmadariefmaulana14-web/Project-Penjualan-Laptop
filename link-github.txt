@@ -1,0 +1,5 @@
+# Project Penjualan Laptop
+Tugas Mata Kuliah Web Framework.
+
+Link Repository GitHub: 
+https://github.com/akhmadariefmaulana14-web/Project-Penjualan-Laptop
