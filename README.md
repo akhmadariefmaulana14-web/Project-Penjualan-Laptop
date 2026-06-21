@@ -4,7 +4,7 @@
 * NOTE. Jika ingin menjalankan project tanpa mendowload folder bisa langsung jalankan di browser dengan domain bernama : jblaptop.free.nf.
         Atau bisa juga copy link berikut kemudian paste ke browser anda : https://jblaptop.free.nf/?i=1
 
-* 1.import .sql yang ada di folder maindatabase ke database SQL yang telah dibuat di control panel dalam website InfinityFree
+* 1.import .sql yang ada di folder MAINDATABASE ke database SQL yang telah dibuat di control panel dalam website InfinityFree
 
 * 2.Untuk Login user di halaman utama frontend :
     2.1. username : hmmm,
